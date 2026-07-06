@@ -16,7 +16,7 @@
 4. **不出售、不共享。** 我们不会出售你的数据，也不会与任何第三方共享，更不会用于广告、信用评估等与翻译无关的用途。
 5. **随时清除。** 卸载扩展即可清除本机保存的全部配置与缓存。
 
-如对本隐私政策有任何疑问，请联系：**yangfang0227@gmail.com**
+如对本隐私政策有任何疑问，请联系：**yangfang0225@gmail.com**
 
 ---
 
@@ -34,4 +34,4 @@
 4. **No selling, no sharing.** We do not sell your data or share it with any third party, and we do not use it for advertising, credit assessment, or any purpose unrelated to translation.
 5. **Clear anytime.** Uninstalling the extension removes all locally stored settings and cache.
 
-For any questions about this Privacy Policy, contact: **yangfang0227@gmail.com**
+For any questions about this Privacy Policy, contact: **yangfang0225@gmail.com**
